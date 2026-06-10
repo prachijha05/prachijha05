@@ -17,7 +17,7 @@
 **Tools:** Git, GitHub, VS Code, Google Colab, Jupyter Notebook
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h4a2d5M3N3b3R6d2VvZTV4M2p5eDZ0d3BvN2ZkZ2h0a2lqY3F0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="250"/>
+<img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250"/>
 
 ## 🏆 Achievements
 
