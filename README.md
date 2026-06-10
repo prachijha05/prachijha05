@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prachi Jha
 
-### Aspiring Software Engineer | ECE @ IGDTUW | Building GenAI & Computer Vision Solutions
+### Aspiring Software Engineer | ECE @ IGDTUW
 
 🎓 B.Tech in Electronics & Communication Engineering at IGDTUW 
   
